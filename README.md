@@ -17,6 +17,10 @@ A beginner-friendly Python project for analyzing and visualizing sales data from
 
 2. Run analysis:
 
-```bash
- python analysis.py
+   ```bash
+   python analysis.py
+3. Run visualizations:
+
+   ```bash
+   python visualization.py
 
