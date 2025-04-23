@@ -14,3 +14,9 @@ A beginner-friendly Python project for analyzing and visualizing sales data from
 1. Install dependencies:
    ```bash
    pip install -r requirements.txt
+
+2. Run analysis:
+
+```bash
+ python analysis.py
+
