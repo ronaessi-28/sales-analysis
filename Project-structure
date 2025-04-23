@@ -1,0 +1,6 @@
+sales-analysis/
+├── superstore_sales.csv
+├── analysis.py
+├── visualization.py
+├── requirements.txt
+└── README.md
