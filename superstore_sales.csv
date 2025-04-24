@@ -7,7 +7,7 @@ IN-00005,05/01/2023,07/01/2023,Standard Class,CUST0005,Customer 5,Corporate,Indi
 IN-00006,06/01/2023,08/01/2023,Second Class,CUST0006,Customer 6,Consumer,India,Delhi,Delhi,110001,North,P-00006,Office Supplies,Binders,Leather Binder,1200.20,2,0.05,180.32
 IN-00007,07/01/2023,09/01/2023,Standard Class,CUST0007,Customer 7,Home Office,India,Mumbai,Maharashtra,400001,West,P-00007,Furniture,Chairs,Office Chair,1499.00,3,0.18,250.30
 IN-00008,08/01/2023,10/01/2023,Second Class,CUST0008,Customer 8,Corporate,India,Bangalore,Karnataka,560001,South,P-00008,Technology,Phones,office chair,3499.75,1,0.25,450.00
-IN-00009, 09/01/2023, 11/01/2023, Standard Class, CUST0009, Customer 9, Consumer, India, Chennai, Tamil Nadu, 600001, South, P-00009, Office Supplies, Binders, Plastic Binder, 890.10, 2, 0.07, 100.45
+IN-00009,09/01/2023,11/01/2023,Standard Class,CUST0009,Customer 9,Consumer,India,Chennai,Tamil Nadu,600001,South,P-00009,Office Supplies,Binders,Plastic Binder, 890.10, 2, 0.07, 100.45
 IN-00010,10/01/2023,12/01/2023,Second Class,CUST0010,Customer 10,Home Office,India,Hyderabad,Telangana,500001,South,P-00010,Furniture,Storage,Storage Shelf,999.90,5,0.10,200.00
 IN-00011,11/01/2023,13/01/2023,Standard Class,CUST0011,Customer 11,Corporate,India,Delhi,Delhi,110001,North,P-00011,Technology,Laptops,MacBook Pro,65000.00,1,0.15,8000.00
 IN-00012,12/01/2023,14/01/2023,Second Class,CUST0012,Customer 12,Consumer,India,Mumbai,Maharashtra,400001,West,P-00012,Office Supplies,Binders,Hardcover Binder,1700.75,3,0.12,190.25
@@ -49,3 +49,4 @@ IN-00047,16/02/2023,18/02/2023,Standard Class,CUST0047,Customer 47,Corporate,Ind
 IN-00048,17/02/2023,19/02/2023,Second Class,CUST0048,Customer 48,Consumer,India,Bangalore,Karnataka,560001,South,P-00048,Office Supplies,Binders,Leather Binder,1300.99,2,0.06,170.00
 IN-00049,18/02/2023,20/02/2023,Standard Class,CUST0049,Customer 49,Home Office,India,Chennai,Tamil Nadu,600001,South,P-00049,Technology,Phones,Samsung Galaxy S21,4999.99,1,0.15,600.00
 IN-00050,19/02/2023,21/02/2023,Second Class,CUST0050,Customer 50,Corporate,India,Hyderabad,Telangana,500001,South,P-00050,Furniture,Chairs,Office Chair,1500.00,3,0.08,200.00
+ 
