@@ -1,5 +1,5 @@
 
-# Sales Analysis & Visualization 
+# Sales Analysis & Visualization  
     
 A beginner-friendly Python project for analyzing and visualizing sales data from a Superstore.
      
