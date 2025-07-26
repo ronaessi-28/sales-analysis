@@ -2,7 +2,7 @@
 # Sales Analysis & Visualization   
      
 A beginner-friendly Python project for analyzing and visualizing sales data from a Superstore.
-     
+      
 ## Features 
 - Total sales calculation
 - Top-performing states 
