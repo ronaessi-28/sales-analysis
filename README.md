@@ -3,7 +3,7 @@
        
 A beginner-friendly Python project for analyzing and visualizing sales data from a Superstore.
        
-## Features 
+## Features  
 - Total sales calculation
 - Top-performing states 
 - Sales by category visualization
