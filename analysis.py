@@ -1,6 +1,6 @@
 import pandas as pd
  
-# Load the data   
+# Load the data    
 df = pd.read_csv('superstore_sales.csv')
   
 # Ensure correct data types
