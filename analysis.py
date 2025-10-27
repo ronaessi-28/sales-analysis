@@ -4,7 +4,7 @@ import pandas as pd
 df = pd.read_csv('superstore_sales.csv')
   
 # Ensure correct data types 
-df['Sales'] = df['Sales'].astype(float) 
+df['Sales'] = df['Sales'].astype(float)  
 df['Profit'] = df['Profit'].astype(float)
 df['Discount'] = df['Discount'].astype(float)
 
