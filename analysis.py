@@ -1,5 +1,5 @@
 import pandas as pd
- 
+  
 # Load the data    
 df = pd.read_csv('superstore_sales.csv')
   
