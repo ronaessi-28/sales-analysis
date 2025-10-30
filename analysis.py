@@ -6,7 +6,7 @@ df = pd.read_csv('superstore_sales.csv')
 # Ensure correct data types 
 df['Sales'] = df['Sales'].astype(float)  
 df['Profit'] = df['Profit'].astype(float)
-df['Discount'] = df['Discount'].astype(float)
+df['Discount'] = df['Discount'].astype(float) 
 
 # Convert date columns with Indian format (DD/MM/YYYY)
 df['Order Date'] = pd.to_datetime(df['Order Date'], dayfirst=True)
