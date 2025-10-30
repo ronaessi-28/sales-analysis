@@ -2,7 +2,7 @@ import pandas as pd
   
 # Load the data    
 df = pd.read_csv('superstore_sales.csv')
-   
+    
 # Ensure correct data types 
 df['Sales'] = df['Sales'].astype(float)  
 df['Profit'] = df['Profit'].astype(float)
