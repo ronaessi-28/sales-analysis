@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns  
     
 # Load the data 
-df = pd.read_csv('superstore_sales.csv')
+df = pd.read_csv('superstore_sales.csv') 
 
 # Convert columns to numeric
 df['Sales'] = df['Sales'].astype(float)
