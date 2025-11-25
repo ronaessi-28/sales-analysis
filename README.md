@@ -12,7 +12,7 @@ A beginner-friendly Python project for analyzing and visualizing sales data from
 ## How to Run
 
 1. Install dependencies:
-   ```bash
+   ```bash 
    pip install -r requirements.txt
 
 2. Run analysis:
