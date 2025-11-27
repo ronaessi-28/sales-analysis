@@ -4,7 +4,7 @@ import seaborn as sns
      
 # Load the data 
 df = pd.read_csv('superstore_sales.csv') 
-
+ 
 # Convert columns to numeric
 df['Sales'] = df['Sales'].astype(float)
 df['Profit'] = df['Profit'].astype(float)
